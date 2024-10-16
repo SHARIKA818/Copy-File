@@ -33,5 +33,7 @@ copy("textfile1.txt","textfile2.txt")
 ### OUTPUT:
 ![Screenshot 2024-10-16 061654](https://github.com/user-attachments/assets/ae89b3e8-43f3-4ae3-bae9-05a53a6d33c7)
 
+![Screenshot 2024-10-16 063511](https://github.com/user-attachments/assets/2bfd9c3a-795e-4794-bf39-e3bda2385011)
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
